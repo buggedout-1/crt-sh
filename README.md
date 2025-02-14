@@ -10,8 +10,6 @@ This tool allows you to fetch subdomains for a domain from [crt.sh](https://crt.
 ## Installation
    ```bash
    git clone https://github.com/buggedout-1/crt-sh.git
-   cd crt-sh
-   pip install -r requirements.txt
    ```
 ## Usage
   ```bash
